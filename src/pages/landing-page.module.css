@@ -1,0 +1,134 @@
+.landingPageChild,
+.landingPageInner,
+.landingPageItem {
+  position: absolute;
+  top: 1195px;
+  left: 132px;
+  border-radius: 50%;
+  background-color: var(--color-mediumvioletred);
+  width: 495px;
+  height: 502px;
+}
+.landingPageInner,
+.landingPageItem {
+  top: 1161px;
+  left: 2869px;
+  background-color: var(--color-steelblue);
+  width: 884px;
+  height: 863px;
+}
+.landingPageInner {
+  top: 447px;
+  left: 1104px;
+  width: 341px;
+  height: 391px;
+}
+.landingPageGirl1Icon {
+  position: absolute;
+  top: 564px;
+  left: 342px;
+  width: 933px;
+  height: 1356px;
+  object-fit: cover;
+}
+.feelTheMusic,
+.streamOver20 {
+  position: absolute;
+  left: 1811px;
+}
+.feelTheMusic {
+  top: 764px;
+  font-size: 96px;
+  font-weight: 600;
+  display: inline-block;
+  width: 992px;
+  height: 226px;
+}
+.streamOver20 {
+  top: 928px;
+  font-size: var(--font-size-29xl);
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: var(--color-royalblue);
+  width: 250px;
+  height: 120px;
+}
+.joinNow {
+  position: absolute;
+  top: 12px;
+  left: 23px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 204px;
+  height: 96px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: 120px;
+}
+.button,
+.discover,
+.join {
+  position: absolute;
+  cursor: pointer;
+}
+.button {
+  top: 1122px;
+  left: 1811px;
+  width: 250px;
+  height: 120px;
+  text-align: center;
+}
+.discover,
+.join {
+  top: 13px;
+  left: 1808px;
+}
+.join {
+  left: 2170px;
+}
+.finalLogoIcon {
+  top: 0;
+  left: calc(50% - 1122.5px);
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.finalLogoIcon,
+.nav,
+.waveMusic {
+  position: absolute;
+}
+.waveMusic {
+  top: 7px;
+  left: 91px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 185px;
+  height: 38px;
+}
+.nav {
+  top: 47px;
+  left: 365px;
+  width: 2245px;
+  height: 67px;
+}
+.landingPage {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  height: 1920px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

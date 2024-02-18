@@ -1,0 +1,189 @@
+.covers1Icon {
+  position: absolute;
+  top: 407px;
+  left: 2243px;
+  width: 1236px;
+  height: 1236px;
+  object-fit: cover;
+}
+.discoverNewMusic {
+  position: absolute;
+  top: 467px;
+  left: 302px;
+  font-size: 128px;
+  font-weight: 600;
+  display: inline-block;
+  width: 1388px;
+  height: 244px;
+}
+.frame,
+.frame1,
+.frame2 {
+  position: absolute;
+  top: 1392px;
+  left: 498px;
+  width: 300px;
+  height: 284px;
+  overflow: hidden;
+}
+.frame1,
+.frame2 {
+  top: 690px;
+  left: 1318px;
+  height: 285px;
+}
+.frame2 {
+  top: 1030px;
+  left: 786px;
+  width: 316px;
+  height: 284px;
+}
+.chartsCardChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 364px;
+  height: 408px;
+}
+.charts {
+  position: absolute;
+  top: calc(50% + 73.6px);
+  left: 82px;
+  font-weight: 600;
+  display: inline-block;
+  width: 240px;
+  height: 79.9px;
+}
+.chartsIcon {
+  position: absolute;
+  height: 41.23%;
+  width: 43.41%;
+  top: 16.23%;
+  right: 22.8%;
+  bottom: 42.55%;
+  left: 33.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.chartsCard,
+.more {
+  position: absolute;
+  top: 821px;
+  left: 302px;
+  width: 364px;
+  height: 408px;
+}
+.more {
+  top: 295px;
+  left: 107px;
+  font-weight: 600;
+  display: inline-block;
+  width: 240px;
+  height: 79.9px;
+}
+.clipPathGroup {
+  position: absolute;
+  height: 41.67%;
+  width: 48.82%;
+  top: 13.73%;
+  right: 25.63%;
+  bottom: 44.61%;
+  left: 25.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.moreCard {
+  position: absolute;
+  top: 821px;
+  left: 1254px;
+  width: 364px;
+  height: 408px;
+}
+.album {
+  position: absolute;
+  top: calc(50% + 81px);
+  left: 84px;
+  font-weight: 600;
+  display: inline-block;
+  width: 240px;
+  height: 79.9px;
+}
+.clipPathGroup1 {
+  position: absolute;
+  height: 38.65%;
+  width: 43.41%;
+  top: 13.92%;
+  right: 28.3%;
+  bottom: 47.43%;
+  left: 28.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.albumCars,
+.joinToListen {
+  position: absolute;
+  top: 821px;
+  left: 762px;
+  width: 364px;
+  height: 408px;
+}
+.joinToListen {
+  top: 1322px;
+  left: 302px;
+  display: inline-block;
+  width: 1725px;
+  height: 212px;
+}
+.discover,
+.join {
+  position: absolute;
+  top: 6px;
+  left: 1821px;
+  cursor: pointer;
+}
+.join {
+  left: 2112px;
+}
+.finalLogoIcon {
+  top: 0;
+  left: calc(50% - 1093.5px);
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+.finalLogoIcon,
+.nav,
+.waveMusic {
+  position: absolute;
+}
+.waveMusic {
+  top: 13px;
+  left: 96px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 185px;
+  height: 38px;
+}
+.nav {
+  top: 57px;
+  left: 302px;
+  width: 2187px;
+  height: 60px;
+  font-size: var(--font-size-17xl);
+}
+.feature {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  height: 1920px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

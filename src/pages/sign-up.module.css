@@ -1,0 +1,194 @@
+.signupChild {
+  position: absolute;
+  top: 37px;
+  left: 1102px;
+  border-radius: 30px;
+  background-color: var(--color-gray);
+  width: 1488px;
+  height: 1582px;
+}
+.signupItem,
+.username {
+  position: absolute;
+  left: 1255px;
+}
+.username {
+  top: 72px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  width: 384px;
+  height: 84px;
+}
+.signupItem {
+  top: 236px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  border: 5px solid var(--color-royalblue);
+  box-sizing: border-box;
+  width: 1092px;
+  height: 136px;
+}
+.password {
+  top: 832px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  width: 384px;
+  height: 84px;
+}
+.email,
+.password,
+.signupInner {
+  position: absolute;
+  left: 1255px;
+}
+.signupInner {
+  top: 996px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  border: 5px solid var(--color-royalblue);
+  box-sizing: border-box;
+  width: 1092px;
+  height: 136px;
+}
+.email {
+  top: 452px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  width: 384px;
+  height: 84px;
+}
+.groupChild,
+.rectangleDiv {
+  position: absolute;
+  border-radius: var(--br-xl);
+  width: 1092px;
+  height: 136px;
+}
+.rectangleDiv {
+  top: 616px;
+  left: 1255px;
+  background-color: var(--color-gainsboro);
+  border: 5px solid var(--color-royalblue);
+  box-sizing: border-box;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  background-color: var(--color-royalblue);
+}
+.joinNow {
+  position: absolute;
+  top: 14px;
+  left: 187px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 729px;
+  height: 108px;
+}
+.button,
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1092px;
+  height: 136px;
+}
+.button {
+  top: 1326px;
+  left: 1255px;
+  text-align: center;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 1097px;
+  left: 2683px;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+  width: 1006px;
+  height: 1043px;
+}
+.signupChild1,
+.signupChild2,
+.signupChild3 {
+  position: absolute;
+  top: 106px;
+  left: 340px;
+  border-radius: 50%;
+  background-color: var(--color-mediumvioletred);
+  width: 663px;
+  height: 646px;
+}
+.signupChild2,
+.signupChild3 {
+  top: -238px;
+  left: 3162px;
+}
+.signupChild3 {
+  top: 1130px;
+  left: 170px;
+  background-color: var(--color-steelblue);
+  width: 341px;
+  height: 391px;
+}
+.signupChild4 {
+  position: absolute;
+  top: 1680px;
+  left: 0;
+  background-color: var(--color-darkslategray-100);
+  border: 3px solid #2e2e2e;
+  box-sizing: border-box;
+  width: 3601px;
+  height: 240px;
+}
+.frameIcon {
+  position: absolute;
+  top: 1763px;
+  left: 3018px;
+  width: 100px;
+  height: 89px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.aboutUs {
+  position: absolute;
+  top: 1783px;
+  left: 302px;
+  display: inline-block;
+  width: 564px;
+  height: 124px;
+}
+.contactUs917992188988,
+.emailAadishchakravortygmail,
+.twitter {
+  position: absolute;
+  top: 1776px;
+  left: 905px;
+  display: inline-block;
+  width: 926px;
+  height: 120px;
+}
+.emailAadishchakravortygmail,
+.twitter {
+  top: 1763px;
+  left: 1811px;
+  width: 940px;
+  height: 100px;
+}
+.twitter {
+  top: 1776px;
+  left: 3140px;
+  width: 368px;
+  height: 64px;
+}
+.signup {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  height: 1920px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
